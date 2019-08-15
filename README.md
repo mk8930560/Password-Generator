@@ -27,9 +27,12 @@ A step by step series of examples that tell you how to get a development env run
 <p align="center">
   <img width="460" height="300" src="assets/Demo3.png">
 </p>
-![resultA](assets/Demo3.png)</br>
-![resultA](assets/Demo1.png)</br>
-![resultA](assets/Demo2.png)
+<p align="center">
+  <img width="460" height="300" src="assets/Demo1.png">
+</p>
+<p align="center">
+  <img width="460" height="300" src="assets/Demo1.png">
+</p>
 
 ## Built With
 
