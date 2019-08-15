@@ -24,8 +24,8 @@ A step by step series of examples that tell you how to get a development env run
 3.In the bin folder of this project open the terminal and type java Password
 4.Enter the values in the form to Generator and click on Generate
 ```
-![resultA](assets/Demo3.png)
-![resultA](assets/Demo1.png)
+![resultA](assets/Demo3.png)</br>
+![resultA](assets/Demo1.png)</br>
 ![resultA](assets/Demo2.png)
 
 ## Built With
