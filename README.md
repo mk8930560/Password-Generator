@@ -31,7 +31,7 @@ A step by step series of examples that tell you how to get a development env run
   <img width="460" height="300" src="assets/Demo1.png">
 </p>
 <p align="center">
-  <img width="460" height="300" src="assets/Demo1.png">
+  <img width="460" height="300" src="assets/Demo2.png">
 </p>
 
 ## Built With
